@@ -55,6 +55,9 @@ analysis, we can unlock valuable insights to optimize our operations, enhance pr
 sustainable growth
 
 This data is downloaded from Kaggle and clean using excel ,transform the data as needed for analysis.
+
 Written SQL queries to extract, manipulate, and analyze the company financial data.
+
 Executed the SQL queries to perform data analysis and generate insights.
+
 Identify trends and patterns in the financial data that can inform decision-making and strategy development.
