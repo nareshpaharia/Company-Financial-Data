@@ -3,16 +3,25 @@
 My objective from this project is to unearth invaluable insights across key areas such as:
 
 𝐅𝐢𝐧𝐚𝐧𝐜𝐢𝐚𝐥 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞
+
 𝐒𝐞𝐠𝐦𝐞𝐧𝐭 & 𝐂𝐨𝐮𝐧𝐭𝐫𝐲 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬
+
 𝐏𝐫𝐨𝐝𝐮𝐜𝐭 𝐄𝐯𝐚𝐥𝐮𝐚𝐭𝐢𝐨𝐧
+
 𝐃𝐢𝐬𝐜𝐨𝐮𝐧𝐭 𝐄𝐱𝐚𝐦𝐢𝐧𝐚𝐭𝐢𝐨𝐧
+
 𝐂𝐨𝐬𝐭 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬
+
 𝐓𝐢𝐦𝐞 𝐒𝐞𝐫𝐢𝐞𝐬 𝐄𝐱𝐩𝐥𝐨𝐫𝐚𝐭𝐢𝐨𝐧
+
 𝐅𝐢𝐧𝐚𝐧𝐜𝐢𝐚𝐥 𝐇𝐞𝐚𝐥𝐭𝐡 𝐀𝐬𝐬𝐞𝐬𝐬𝐦𝐞𝐧𝐭
+
 𝐒𝐜𝐞𝐧𝐚𝐫𝐢𝐨 𝐅𝐨𝐫𝐞𝐜𝐚𝐬𝐭𝐢𝐧𝐠
+
 𝐚𝐧𝐝 𝐏𝐫𝐨𝐟𝐢𝐭𝐚𝐛𝐢𝐥𝐢𝐭𝐲 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬
 
-Our data includes information on:
+
+## Our data includes information on:
 
 # Segment: The different business segments or divisions within our company.
 
