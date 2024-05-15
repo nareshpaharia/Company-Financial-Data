@@ -2,7 +2,7 @@
 
 Our data includes information on:
 
-**Segment**: The different business segments or divisions within our company.
+#Segment: The different business segments or divisions within our company.
 **Country:** Geographic locations where our products are sold or services rendered.
 **Product:** Details about the products or services offered by our company.
 **Discount Band:** The pricing tiers or bands where discounts are applied.
