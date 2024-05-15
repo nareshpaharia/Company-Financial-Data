@@ -52,4 +52,9 @@ My objective from this project is to unearth invaluable insights across key area
 This comprehensive dataset serves as a treasure trove for analyzing our financial performance, 
 understanding market dynamics, and driving strategic decision-making. Through detailed examination and 
 analysis, we can unlock valuable insights to optimize our operations, enhance profitability, and achieve 
-sustainable growth.
+sustainable growth
+
+This data is downloaded from Kaggle and clean using excel ,transform the data as needed for analysis.
+Written SQL queries to extract, manipulate, and analyze the company financial data.
+Executed the SQL queries to perform data analysis and generate insights.
+Identify trends and patterns in the financial data that can inform decision-making and strategy development.
