@@ -21,7 +21,7 @@ My objective from this project is to unearth invaluable insights across key area
 𝐚𝐧𝐝 𝐏𝐫𝐨𝐟𝐢𝐭𝐚𝐛𝐢𝐥𝐢𝐭𝐲 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬
 
 
-## Our data includes information on:
+### Our data includes information on:
 
 ## Segment: The different business segments or divisions within our company.
 
